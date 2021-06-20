@@ -31,6 +31,11 @@
 Введем текст, который будет сообщать NPC игроку при обращении к нему.
 <img src = "./img/Minecraft Education Edition11.jpg">  
 
+```
+Игорк! Тебе нужно правильно ответить на квестовый вопрос.
+Для этого - необходимо перейти на координаты 50,4,50
+```
+
 Для того, чтобы вернуться к стандартному режиму - заменим параметр world builder на false, введя в чат команду `/wb`  
 <img src = "./img/Minecraft Education Edition12.jpg">  
 <img src = "./img/Minecraft Education Edition13.jpg">  
