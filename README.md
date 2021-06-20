@@ -45,5 +45,24 @@
 <img src = "./img/Minecraft Education Edition15.jpg">  
 И добавить код, который фиксирует наличие алмазного блока в определенной позиции
 <img src = "./img/Minecraft Education Edition18.jpg">  
-В результате - получем под каждую кнопку - различный ответ.
+В результате &mdash; получем под каждую кнопку &mdash; различный ответ.
 <img src = "./img/question.gif">  
+
+<a href = "https://github.com/mikh-maksi/minecraft-code/blob/main/quest_questions.js">Код проверки вопросов</a>  
+
+#### Игрок получает вещи
+За различные ответы игроку можно выдавать различные вещи. Для этого - при различных ответах передавать игроку различные вещи:  
+<img src = "./img/Minecraft Education Edition22.jpg">  
+
+#### Телепортирование
+Когда игрок дает правильный ответ - необходимо телепортировать его (либо в точку следующего вопроса, либо в точку начала RPG).
+<img src = "./img/Minecraft Education Edition19.jpg">  
+
+#### Обратный отсчет
+Перед стартом RPG-части важно дать игроку время на то, чтобы он подготовился к атаке (взял желаемое оружие, одел амуницию).  
+<img src = "./img/Minecraft Education Edition20.jpg">  
+<img src = "./img/Minecraft Education Edition21.jpg">  
+  
+<a href = "https://github.com/mikh-maksi/minecraft-code/blob/main/time_back.js">JavaScript</a>  
+
+<img src = "./img/teleport.gif">  
