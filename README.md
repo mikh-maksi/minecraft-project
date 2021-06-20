@@ -4,6 +4,8 @@
 <img src = "./img/Minecraft Education Edition.jpg">  
 <img src = "./img/Minecraft Education Edition2.jpg">
 
+<a href = "https://github.com/mikh-maksi/minecraft-code/blob/main/project/start.js">JavaScript - код</a>
+
 ### Несколько экранов информации
 При необходимости вывода информации на более чем 1-м экране необходимо поставить задержку более чем 8000 мс.
 <img src = "./img/Minecraft Education Edition3.jpg">  
