@@ -73,3 +73,9 @@
 <a href = "https://github.com/mikh-maksi/minecraft-code/blob/main/time_back.js">JavaScript</a>  
 
 <img src = "./img/teleport.gif">  
+
+#### Создаем арену для сражения.
+<img src = "./img/Minecraft Education Edition23.jpg">  
+
+#### Запускаем мобов.
+<img src = "./img/Minecraft Education Edition24.jpg"> 
